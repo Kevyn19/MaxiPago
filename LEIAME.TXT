@@ -1,0 +1,19 @@
+---------- Documentação do projeto -------------
+
+Arquitetura: 
+
+Java Versão 8
+Spring Boot
+Tomcat
+Mysql JDBC
+
+Classe main que da o start na aplicação: ApiwebApplication
+
+Url raiz: localhost:8080/Cities
+
+Serviços expostos:
+
+localhost:8080/Cities - POST 
+localhost:8080/Cities - PUT
+localhost:8080/Cities/xml/{metric} - GET
+localhost:8080/Cities/json/{metric} - GET

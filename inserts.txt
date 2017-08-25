@@ -1,0 +1,7 @@
+insert into cities_entity(latitude,longitude,name) values('-23.5614789','-46.6559391','SÃO PAULO - Paulista');
+
+insert into cities_entity(latitude,longitude,name) values('-22.7888901','-43.3102117','RIO DE JANEIRO - Av. Dr. Plínio Casado');
+
+insert into cities_entity(latitude,longitude,name) values('-13.0100243','-38.5056562','SALVADOR - Ladeira do Jardim Zoológico');
+
+
